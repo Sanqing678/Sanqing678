@@ -37,37 +37,6 @@
 
 ---
 
-## 精选项目
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Sanqing678/Hackintosh-Installation-Guide">OpenCore 安装指南</a></h3>
-      <p>硬件兼容、EFI 制作、BIOS 设置、安装流程、排错和后期优化。</p>
-      <p><code>Guide</code> <code>OpenCore</code> <code>Intel / AMD</code></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Sanqing678/Introduction-to-SSDT">SSDT 入门</a></h3>
-      <p>ACPI / SSDT 基础、常用表、制作工具和黑苹果常见补丁思路。</p>
-      <p><code>ACPI</code> <code>SSDT</code> <code>Patch</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Sanqing678/CPUFriend-Usage-Tutorial">CPUFriend 教程</a></h3>
-      <p>CPU 电源管理优化，生成并使用 CPUFriendDataProvider.kext。</p>
-      <p><code>Power Management</code> <code>Kext</code></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Sanqing678/RX6950XT-RX6650XT-Black-Apple-video-card-driver-tutorial-and-method">AMD 显卡驱动方案</a></h3>
-      <p>RX 6950 XT / RX 6650 XT 通过 SSDT 仿冒方式适配 macOS。</p>
-      <p><code>GPU</code> <code>SSDT Spoof</code> <code>AMD</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## EFI 索引
 
 <details open>
