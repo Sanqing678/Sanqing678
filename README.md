@@ -44,9 +44,13 @@
 
 | 设备 | 关键信息 | 仓库 |
 | --- | --- | --- |
+| ASUS TUF B550M-PLUS WIFI II | R5 5600 / RX 6750 GRE / macOS 26 | [ASUS-TUF-B550M-PLUS-WIFI-II-Hackintosh](https://github.com/Sanqing678/ASUS-TUF-B550M-PLUS-WIFI-II-Hackintosh) |
+| MSI A520M-A PRO | R5 5600GT / AMD APU NootedRed / Sequoia | [MSI-A520M-A-PRO-Hackintosh](https://github.com/Sanqing678/MSI-A520M-A-PRO-Hackintosh) |
+| Gigabyte B450M DS3H | R5 5600 / RX 6700 / Sequoia | [Gigabyte-B450M-DS3H-Hackintosh](https://github.com/Sanqing678/Gigabyte-B450M-DS3H-Hackintosh) |
+| NEC PC-MKL31CZG4 | i5-8400T / UHD 630 / Sequoia | [NEC-PC-MKL31CZG4-Hackintosh](https://github.com/Sanqing678/NEC-PC-MKL31CZG4-Hackintosh) |
 | ASUS TUF Gaming FX504GE | i7-8750H / UHD 630 / Sonoma | [ASUS-TUF-FX504GE-Hackintosh](https://github.com/Sanqing678/ASUS-TUF-FX504GE-Hackintosh) |
-| Panasonic Let note CFLV8 | i5-8365U / Whiskey Lake / Ventura | [PANASONIC-CFLV8-1T-Hackintosh](https://github.com/Sanqing678/PANASONIC-CFLV8-1T-Hackintosh) |
-| MSI B650M GAMING PLUS WIFI | Ryzen 7 7800X3D / RX 580 | [MSI-B650M-GAMING-PLUS-WIFI-Hackintosh](https://github.com/Sanqing678/MSI-B650M-GAMING-PLUS-WIFI-Hackintosh) |
+| Panasonic Let note CFLV8 | i5-8365U / Ventura | [PANASONIC-CFLV8-1T-Hackintosh](https://github.com/Sanqing678/PANASONIC-CFLV8-1T-Hackintosh) |
+| MSI B650M GAMING PLUS WIFI | R7 7800X3D / RX 580 | [MSI-B650M-GAMING-PLUS-WIFI-Hackintosh](https://github.com/Sanqing678/MSI-B650M-GAMING-PLUS-WIFI-Hackintosh) |
 | ASUS PRIME Z890M-PLUS WIFI | Core Ultra 7 265K | [EFI-ASUS-PRIME-Z890M-PLUS-WIFI-CORE-ULTRA-7-265K-open-core1.04](https://github.com/Sanqing678/EFI-ASUS-PRIME-Z890M-PLUS-WIFI-CORE-ULTRA-7-265K-open-core1.04) |
 
 </details>
@@ -56,6 +60,13 @@
 
 | 设备 | 平台 | 仓库 |
 | --- | --- | --- |
+| NEC PC-MKL31CZG4 | i5-8400T / UHD 630 / Coffee Lake | [NEC-PC-MKL31CZG4-Hackintosh](https://github.com/Sanqing678/NEC-PC-MKL31CZG4-Hackintosh) |
+| UNIKA H310M PRO V2 | i3-7100 / HD 630 / Kaby Lake | [UNIKA-H310M-PRO-V2-Hackintosh](https://github.com/Sanqing678/UNIKA-H310M-PRO-V2-Hackintosh) |
+| ASUS PRIME H310M-K | Xeon E3-1240 v6 / HD 7700 | [ASUS-PRIME-H310M-K-Hackintosh](https://github.com/Sanqing678/ASUS-PRIME-H310M-K-Hackintosh) |
+| ASUS H110M-F | i5-6500T / RX 560 / Skylake | [ASUS-H110M-F-Hackintosh](https://github.com/Sanqing678/ASUS-H110M-F-Hackintosh) |
+| Gigabyte B450M DS3H | R5 5600 / RX 6700 / AMD | [Gigabyte-B450M-DS3H-Hackintosh](https://github.com/Sanqing678/Gigabyte-B450M-DS3H-Hackintosh) |
+| ASUS TUF B550M-PLUS WIFI II | R5 5600 / RX 6750 GRE / AM4 | [ASUS-TUF-B550M-PLUS-WIFI-II-Hackintosh](https://github.com/Sanqing678/ASUS-TUF-B550M-PLUS-WIFI-II-Hackintosh) |
+| MSI A520M-A PRO | R5 5600GT / APU NootedRed / AM4 | [MSI-A520M-A-PRO-Hackintosh](https://github.com/Sanqing678/MSI-A520M-A-PRO-Hackintosh) |
 | MSI Creator TRX40 | Threadripper 3960X + RX 6950 XT | [EFI-MSI-Creator-TRX40-Ryzen-Threadripper-3960X-OpenCore1.07](https://github.com/Sanqing678/EFI-MSI-Creator-TRX40-Ryzen-Threadripper-3960X-OpenCore1.07) |
 | MSI MAG B460M MORTAR | Intel B460 | [MSI-MAG-B460M-MORTAR-Hackintosh](https://github.com/Sanqing678/MSI-MAG-B460M-MORTAR-Hackintosh) |
 | Colorful B860M | Arrow Lake | [Colorful-B860M-Arrow-Lake-Hackintosh](https://github.com/Sanqing678/Colorful-B860M-Arrow-Lake-Hackintosh) |
