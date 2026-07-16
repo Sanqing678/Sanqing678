@@ -50,6 +50,7 @@
 | MSI A520M-A PRO | R5 5600GT / AMD APU NootedRed / Sequoia | [MSI-A520M-A-PRO-Hackintosh](https://github.com/Sanqing678/MSI-A520M-A-PRO-Hackintosh) |
 | Gigabyte B450M DS3H | R5 5600 / RX 6700 / Sequoia | [Gigabyte-B450M-DS3H-Hackintosh](https://github.com/Sanqing678/Gigabyte-B450M-DS3H-Hackintosh) |
 | NEC PC-MKL31CZG4 | i5-8400T / UHD 630 / Sequoia | [NEC-PC-MKL31CZG4-Hackintosh](https://github.com/Sanqing678/NEC-PC-MKL31CZG4-Hackintosh) |
+| DELL Inspiron 5557 | i5-6200U / HD 520 / Skylake / Monterey | [DELL-Inspiron-5557-Hackintosh](https://github.com/Sanqing678/DELL-Inspiron-5557-Hackintosh) |
 | ASUS TUF Gaming FX504GE | i7-8750H / UHD 630 / Sonoma | [ASUS-TUF-FX504GE-Hackintosh](https://github.com/Sanqing678/ASUS-TUF-FX504GE-Hackintosh) |
 | Panasonic Let note CFLV8 | i5-8365U / Ventura | [PANASONIC-CFLV8-1T-Hackintosh](https://github.com/Sanqing678/PANASONIC-CFLV8-1T-Hackintosh) |
 | MSI B650M GAMING PLUS WIFI | R7 7800X3D / RX 580 | [MSI-B650M-GAMING-PLUS-WIFI-Hackintosh](https://github.com/Sanqing678/MSI-B650M-GAMING-PLUS-WIFI-Hackintosh) |
